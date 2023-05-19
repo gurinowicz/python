@@ -1,7 +1,7 @@
 # Bag report
 **Id**                  BR-01
 - - - 
-**Summary**               The message informing that all subscription will be send into mail vue is written in turkish at the moment when use english(other languages) interface.
+**Summary**               The message after sending request is written in another language
 - - - 
 **Steps to reproduce**    1.Open https://www.flypgs.com/en/travel-services 2.In footer find out form to Sign up
 - - - 
